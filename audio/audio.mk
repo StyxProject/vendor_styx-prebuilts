@@ -54,6 +54,7 @@ PRODUCT_COPY_FILES += \
     vendor/styx-prebuilts/audio/ringtones/Mash_up.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Mash_up.ogg \
     vendor/styx-prebuilts/audio/ringtones/Monkey_around.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Monkey_around.ogg \
     vendor/styx-prebuilts/audio/ringtones/Schools_out.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Schools_out.ogg \
+    vendor/styx-prebuilts/audio/ringtones/Styx.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Styx.ogg \
     vendor/styx-prebuilts/audio/ringtones/The_big_adventure.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/The_big_adventure.ogg \
     vendor/styx-prebuilts/audio/ringtones/Your_new_adventure.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Your_new_adventure.ogg \
     vendor/styx-prebuilts/audio/ringtones/Zen_too.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ringtones/Zen_too.ogg \

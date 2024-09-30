@@ -1,0 +1,22 @@
+prebuilt_font {
+    name: "HarmonyOS-Sans-Italic.ttf",
+    src: "HarmonyOS-Sans-Italic.ttf",
+    product_specific: true,
+}
+
+prebuilt_font {
+    name: "HarmonyOS-Sans.ttf",
+    src: "HarmonyOS-Sans.ttf",
+    product_specific: true,
+}
+
+prebuilt_font {
+    name: "Roboto-Regular.ttf",
+    src: "HarmonyOS-Sans.ttf",
+    symlinks: ["DroidSans.ttf", "DroidSans-Bold.ttf"],
+}
+
+prebuilt_font {
+    name: "RobotoStatic-Regular.ttf",
+    src: "HarmonyOS-Sans.ttf",
+}
