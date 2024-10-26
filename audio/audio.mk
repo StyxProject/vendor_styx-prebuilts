@@ -89,7 +89,7 @@ PRODUCT_COPY_FILES += \
     vendor/styx-prebuilts/audio/ui/reverse_charging_start.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui/reverse_charging_start.ogg
 
 # Change default sounds
-PRODUCT_PRODUCT_PROPERTIES += \
+PRODUCT_ODM_PROPERTIES += \
     ro.config.ringtone=Styx.ogg \
     ro.config.notification_sound=Eureka.ogg \
     ro.config.alarm_alert=Fresh_start.ogg
